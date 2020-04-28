@@ -1,0 +1,14 @@
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/WebScraper.deps.json
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/WebScraper.runtimeconfig.json
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/WebScraper.runtimeconfig.dev.json
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/WebScraper.dll
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/WebScraper.pdb
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/bin/Debug/netcoreapp3.1/AngleSharp.dll
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.csprojAssemblyReference.cache
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.csproj.CoreCompileInputs.cache
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.AssemblyInfoInputs.cache
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.AssemblyInfo.cs
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.csproj.CopyComplete
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.dll
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.pdb
+/Users/zerrickstaples/Projects/c_sharp/WebScraper/obj/Debug/netcoreapp3.1/WebScraper.genruntimeconfig.cache
